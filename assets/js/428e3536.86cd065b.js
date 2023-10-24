@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpresentation_net_framework=self.webpackChunkpresentation_net_framework||[]).push([[1341],{5906:e=>{e.exports=JSON.parse('{"permalink":"/exposition-net-framework/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

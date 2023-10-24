@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpresentation_net_framework=self.webpackChunkpresentation_net_framework||[]).push([[2925],{2789:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/exposition-net-framework/blog/tags/docusaurus","allTagsPath":"/exposition-net-framework/blog/tags","count":4}')}}]);

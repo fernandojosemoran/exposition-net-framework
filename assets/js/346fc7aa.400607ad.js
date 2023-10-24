@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpresentation_net_framework=self.webpackChunkpresentation_net_framework||[]).push([[73],{5217:e=>{e.exports=JSON.parse('{"permalink":"/exposition-net-framework/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
