@@ -6,22 +6,23 @@
 const { Prism } = require('prism-react-renderer');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Presentation | .Net Framework',
+  title: 'Presentacion | .Net Framework',
   tagline: 'Empower Your Code with .NET!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://fernandojosemoran.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: 'exposition-net-framework',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Ucemn', // Usually your GitHub org/user name.
-  projectName: 'Presentation of .Net Framework', // Usually your repo name.
+  organizationName: 'fernandojosemoran', // Usually your GitHub org/user name.
+  projectName: 'exposition-net-framework', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -30,8 +31,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'es',
+    locales: ['es'],
   },
   plugins: [
     async function myPlugin(context, options) {
