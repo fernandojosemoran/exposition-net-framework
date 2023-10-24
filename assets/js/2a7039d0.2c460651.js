@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpresentation_net_framework=self.webpackChunkpresentation_net_framework||[]).push([[8702],{4180:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/exposition-net-framework/blog/tags/hello","allTagsPath":"/exposition-net-framework/blog/tags","count":2}')}}]);
