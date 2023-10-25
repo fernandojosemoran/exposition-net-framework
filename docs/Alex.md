@@ -1,10 +1,7 @@
 ---
 sidebar_position: 0
+title: Alex - Windows Form
 ---
-
-## Empezemos
-
-Necesitamos escoger nuestra tecnologia con la cual crearemos nuestra aplicacion de escritorio en nestro caso usaremos **Windows Forms App (.NET Framework)**.
 
 :::success Que libreria estaremos usando
 Mayor mente estaremos usando la libreriria **System.Windows.Forms** y la libreria **System** que nos permitira hacer uso de operaciones basicas.
@@ -14,6 +11,10 @@ Mayor mente estaremos usando la libreriria **System.Windows.Forms** y la libreri
 using System;
 using System.Windows.Forms;
 ```
+
+## Empezemos
+
+Necesitamos escoger nuestra tecnologia con la cual crearemos nuestra aplicacion de escritorio en nuestro caso usaremos **Windows Forms App (.NET Framework)**.
 
 ![window.form](pathname:///exposition-net-framework/img/seleccionar-tecnologia.png)
 

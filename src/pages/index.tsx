@@ -9,7 +9,7 @@ import Layout from '@theme/Layout';
 function HomepageHeader() {
   return (
     <header className='bg-emerald-600 flex flex-col items-center text-center gap-10 p-10'>
-      <h1 className='xl:text-4xl text-lg md:text-xl'>QUE ES .NET FRAMEWORK</h1>
+      <h1 className='xl:text-4xl text-lg md:text-xl'>¿QUE ES .NET FRAMEWORK?</h1>
       <div>
         <p className='xl:w-10/12 text-sm md:text-lg lg:text-xl xl:text-2xl'>Es una plataforma de desarrollo para crear aplicaciones para web, Windows y Microsoft Azure.</p>
       </div>
@@ -29,7 +29,7 @@ export default function Home(): JSX.Element {
         <main className='pt-10 flex flex-col gap-20 p-5'>
 
           <section className='flex flex-col gap-4'>
-            <h2 className='text-lg xl:text-2xl font-bold'>Que tipos de proyectos se pueden crear con <span>.Net Framework</span>?</h2>
+            <h2 className='text-lg xl:text-2xl font-bold'>¿Que tipos de proyectos se pueden crear con <span>.Net Framework</span>?</h2>
             <div className=' text-sm text-md md:text-lg lg:text-xl flex flex-col gap-2'>
               <li className='list-disc'>Backend usando <span className='font-sans'>ASP.NET Core, and .NET</span></li>
               <li className='list-disc'>Frontend usando.</li>
