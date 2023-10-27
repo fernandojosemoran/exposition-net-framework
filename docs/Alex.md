@@ -7,7 +7,7 @@ title: Alex - Windows Form
 Mayor mente estaremos usando la libreriria **System.Windows.Forms** y la libreria **System** que nos permitira hacer uso de operaciones basicas.
 :::
 
-```title="librerias en uso"
+```c# title="Este ejemplo hace uso de las siguientes librerias"
 using System;
 using System.Windows.Forms;
 ```
@@ -177,3 +177,6 @@ private void btnCalcular_Click(object sender, EventArgs e)
     }
 }
 ```
+## Resultado Final
+
+![calculadora windows form](pathname:///exposition-net-framework/img/calculadora-windows-form.gif)
